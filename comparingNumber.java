@@ -16,5 +16,4 @@ public class comparingNumber {
             System.out.println("The numbers are equal");
         sc.close();
     }
-    
 }
